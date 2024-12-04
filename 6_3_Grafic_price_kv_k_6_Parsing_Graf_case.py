@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 file_path = 'cleaned_prices.csv'
 data = pd.read_csv(file_path)
 
-# Предположим, что столбец с ценами называется 'price'
+# Предположим, что столбец с ценами называется 'Цена'
 prices = data['Цена']
 
 # Построение гистограммы

@@ -2,4 +2,5 @@
  
 ## Диаграммы
 
+![6_3_Gsrp.png](6_3_Gsrp.png)6_3_
 ![Figure_2.png](Figure_2.png)
